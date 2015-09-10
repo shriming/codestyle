@@ -1,0 +1,2 @@
+# codestyle
+Yandex Style Guide
